@@ -1,7 +1,6 @@
 # hidden-search-widget
 
-This is simple rotation menu design 
-
+This is an animation for the search widget
 ## Table of contents
 
 - [hidden-search-widget](#hidden-search-widget)
